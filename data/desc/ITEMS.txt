@@ -1,0 +1,598 @@
+null item
+Hello, I'm a null item.
+broken shards
+The pieces of glass sit uncomfortably in your pocket. Of course, you certainly know what you're doing.
+ripped paper shreds
+The gory mess of literature now exists crumpled up in your pocket. This is unintelligible.
+burned remnants
+It's just a handful of ashes and burnt paper. Completely useless... OR IS IT???
+shrouded shoes
+The pair of slippers carry almost no weight to them.
+dirt
+It's a damp, cold pile of rocky dirt
+bone
+It's a bone... not much else to say.
+dirty rock
+It's a normal hunk of rock that was mixed with the dirt.
+metal bar
+A sturdy metal bar about 2 feet long. Possibly broken off from the gears.
+glowing pristine fruit
+This red, clean, shiny apple looks perfect! Huh... It has almost a glow to it.
+the factum
+You find that you can't describe it very well. It's quite light and keeps folding in on itself- changing shape. You can't recognize the color either. Almost ultraviolet.
+glowing chalice
+The enigmatic, jewel-encrusted chalice glows a light blue and emits a deep hum.
+glowing scepter
+It's a glimmering silver scepter holding a large opal at the top. The handle resembles a snake wrapped around a stick.
+expensive violin
+A perfectly symmetrical violin, stately in appearance and still holding a satin shine. Looking closely, you can see inscribed on it, 'Stradivarius'.
+shiny pocket watch
+A beautiful etched pocket watch with a delicate gold chain. It still clicks each second behind the polished crystal face, and you can sense many delicate, expensive parts under it's surface.
+platinum diamond ring
+You have no words. The beauty stuns you. To think such a precious item was buried down there for so long.
+jewel-encrusted knife
+The weapon's grand majesty stuns you. Its polished blade curves smoothly down to a sparkling platinum handle set with peridot gems. 
+golden urn
+The beautiful gold urn is set around the lid with emeralds and sapphires.
+large diamond
+It's treasure. A largely cut and undoubtedly valuable sparkling diamond.
+jeweled queen
+The small delicate queen is carved in ivory and embedded with sapphires around the base. She holds a small sparkling staff with a small diamond set at its tip.
+jeweled king
+The small delicate chess piece is carved in ivory. The tiny figure of a king bears a tiny platinum crown holds a scepter. Its base is studded with cleanly-cut garnets.
+golden fork
+The magnificent fork of gold has been carved with the finest attention to detail. A large pearl is set into the end of the handle, and many small scapolite gems decorate the rest of it.
+jet skull
+This is a polished black cup or mug shaped into a detailed skull. A ruby dots each of its eyes and its teeth appear to be made of tiny clear crystals. Diamonds? Sure, why not!
+bronze tablet
+A list of ten statements appears to be carved on the tablet. You cannot read any of them, for they appear to be carved in Hebrew. You have a strong feeling this is extremely valuable.
+gilded astrolabe
+It is a small, intricate disk of shiny metal attached to a chain. Small score marks are etched all around its perimeter, and countless carvings of celestial bodies under its crystal surface decorate it.
+mona Lisa
+It depicts a woman posing to the left in a chair. She has long brown hair and pale, perfect skin, as well as a slight grin. Interesting, as you note that she also lacks eyebrows.
+typhos
+The small golden trophy is protected in a red, glowing aura. It depicts a wicked creature- winged, with sharp teeth and an many snake-like tendrils where its legs would be. This trophy identifies you as a wealthy, most cunning adventurer, though it was not your intention.
+philosopher's stone
+The three pieces have joined into a treasure of nearly unmatched beauty. The silver jeweled base now supports the lapis stone in the center, capped by the sparkling sapphire lotus.
+philosopher's stone base
+A beautiful square base studded with sapphires. Despite it's majesty, there appears to be something missing, as there's a small metal spoke protruding from the base's center.
+philosopher's stone body
+It's a hand-held stone pyramid made of lapis lazuli. Each convex side gently curves to a point at the top. The bottom and top each bear a small hole, as if they're missing something.
+philosopher's stone head
+It's a silver lotus head studded with sapphires. Despite its majesty, there appears to be something missing, as there's a small spoke protruding from its bottom
+dampening staff
+The smooth oak branch now holds the onyx ball inside its wooden cradle at the end. You sense power coming from it, but appears otherwise mundane.
+dampening staff handle
+It's a long and smooth branch of oak with a cradle at the tip, but whatever the cradle was holding is now gone.
+onyx sphere
+The fragments have magically fused together into a smooth black ball of onyx.
+onyx fragment
+The jet black stone is partially smooth and rounded. You estimate it's about one-third a full sphere.
+mandragora
+The potato-shaped vegetable looks disturbingly life-like.
+holy water
+Clear, salty, and boiled like hell.
+potted mandragora
+You have gently positioned the bulb under the soil.
+mandragora bulb
+It's a baby mandragora!
+potted fertile mix
+The fertile soil mixture is packed gently into the pot. 
+clay pot
+It's a medium-sized clay pot for holding plants.
+fertilized soil
+It's a fertile mixture of soil, sand, and fertilizer
+sand
+You have a pocket full of sand. It's grainy and uncomfortable.
+soil
+It's a soft pile of soil
+fertilizer
+It's a handful of mysterious gardening wizardry.
+metal bucket
+It's an empty metal bucket.
+empty vial
+It's a small glass vial for holding samples
+battering ram
+You've restored the old battering ram back to its former glory.
+hand torch
+It's a burning piece of wood. Stay it from your beard!
+note from a visitor
+You read the note. It says:   Well, I figured my way out of that small room I was 'invited' to, but I feel no more close to freedom. I would say that this place is a prison, although I cannot make sense of what compelled me to come here. The only shred of possibility I have left is to jump with hopes of swimming back to that village of mine. To whomever finds this, there's a key I hid back in that small room. Look in the ceramic case on the end table. I have no idea what it opens.
+loot sack
+An elegent black velvet sack with a rope wrapped around the top. A reddish aura coats its surface.
+notice
+'Notice to staff: not a common utility sack. For loot ONLY!'
+short letter
+You find this letter difficult to read. The letters are misshapen and scribbled in meandering lines across the page. You can make out a bit. The letter appears to be expressing thanks and mentions refreshments nearby...
+brass candlestick
+It holds a stubby old candle. Well, at least no one can club you behind the head with it now.
+wicker basket
+A decorative wicker basket. Probably not very useful for you right now.
+wool bowler hat
+A short-brimmed durable hat with a domed top.
+umbrella
+A stately black umbrella with a lacquered wood handle.
+pen
+It's a fancy blue ballpoint pen.
+notepad
+This is a stack of many sheets of brown parchment.
+letter opener
+It's a very dull knife.
+brass plate, Saturn
+The small plate bears an engraving: Saturn
+stone disk
+The smooth disk is about four or five inches across. Its craftsmanship is precise, although there's a chip on its edge. On its surface is an embossing of a soldier.
+rock
+It's a chunk of the courtyard fountain. Plain except for a braided carving across one edge.
+grass
+It's some dark-green grass that you pulled from the ground.
+clover
+It's some clover you pulled from the ground.
+statue torso
+It's a stone torso, once attached to the courtyard statue.
+statue head
+It's a stone head with a chiseled male face. It stares at you blankly as you hold it in your palms.
+spruce extract
+Evergreens are widely known to be resistant to burning.
+bright red berry
+Looks firm and juicy...
+pine cone
+It's scaly but smooth, and is shaped like a pickle. Yes, undoubtedly a spruce pinecone!
+raven feather
+It's elegant- jet-black and long. A smooth glean runs across it as you tilt it to the light.
+string
+A delicate piece of white twine. You're sure the bird didn't need that...
+cooked ham
+A succulent glazed ham, still hot!
+small leaflet
+This is Lethe. I'm very intrigued by text-based games, and feel that what they lack in pictures they make up for in imagination. Please have this cooked ham as a thank you for playing. If you are interested in these sorts of things, I suggest you check out another old game called "Zork". Although plenty of text-based games exist, this one was a big source of inspiration. Credits to all sources of the ambient tracks and sound effects can be accessed by entering "credits" at the main prompt. Enter "version" for other information. Lastly, it wouldn't hurt to glance at "Controls -> The prompt" section of "Get help" for some useful information on input types and hotkeys.
+uninteresting rock
+It's a very uninteresting rock.
+uninteresting branch
+It's a very uninteresting branch.
+broken battering ram
+It's a battering ram, but without the other rope to hold it with, it's useless.
+red focus
+It's a cool brass ring holding a red lens.
+ceramic shard
+It's a broken piece of ceramic. A usable, but inefficient weapon.
+hammer
+It's a small hand-held nailing device.
+greasy rag
+A small white cloth stained black with grease.
+monkey wrench
+A hefty tool for the turning of many things.
+looped rope
+It's a short rope tied into a noose. It's pretty frayed in the center.
+coal
+A simple lump of coal.
+polearm
+It's an old medieval polearm. It's simple but firm, composed of nothing but a wood staff and forged iron point.
+vinegar bottle
+A bottle of yellow liquid. Printed on the label is "C2H4O2"
+fixed ladder
+The spoke sits in there a bit awkwardly, but it seems like a good ladder. It may even support your heft.
+wheel spoke
+It's a wooden rod, about a foot long.
+cleaning solution
+It smells lemony fresh, unlike the rest of this room.
+ripped burlap
+It must have belonged to the broken cart in the west wing.
+acetone
+It's a strong-smelling solvent in a glass jar.
+rubble
+It's a chunk of the stairs, probably.
+rotted wooden chunk
+It's a rotted chunk of wood.
+wood splinter
+It's a splinter of wood.
+branch
+A plain branch from a tree. Nothing too interesting.
+broken rod
+It looks like it belonged to a ladder.
+wooden rod
+It's a wooden rod, about a foot long.
+broken ladder
+A fifteen foot folding ladder. Two of its rungs are missing.
+note: ladder
+Need to get that ladder fixed. Too busy with the cart. Don't ask mages to fix, they've been busy lately. I'll keep it under my bed for now.
+worn rags
+Some dirty worn rags.
+kitchen apron
+It's a kitchen apron, stained black in the center from ash.
+moccasins
+A pair of worn leather moccasins. The leather has worn thin and the seams are separating.
+crowbar
+A sweet iron crowbar.
+shovel
+A sturdy pointed shovel for the digging of holes.
+seed
+It's a handful of mysterious gardening wizardry.
+glue bottle
+It's a glass bottle of sticky glue. It's yellowish tinge clues you that it's the type for wood.
+rubber gloves
+A pair of thick rubber gloves.
+straw
+It's just straw.
+screwdriver
+A small phillips-head screwdriver with a plastic handle. 
+2mm screw
+Just a small screw.
+5mm screw
+Just a small screw.
+rope
+It's a short, coiled rope.
+comb
+A plain hair comb.
+candlestick
+A small brass candlestick.
+sheet
+A plain white bedsheet.
+wrinkled sheet
+A carelessly thrown about bed linen that you found in the servant's wing.
+wooden holed log
+It's a fat hunk of oak, you'd know anywhere. A hole is bored through each end, and you can see small fibers inside each. There's an inscription on the side. It says:  -Bashmaster Batterworks- -Quality battering rams since 1288-
+mop
+It's a classic mop.
+sponge
+It's a quintessential square yellow sponge.
+warhammer
+It's an old medieval warhammer. The head looks extremely worn and dull.
+broken warhammer
+It's snapped in half.
+ash
+You're pretty sure there are people mixed in with this...
+charred wood
+It's a piece of burnt wood
+personal note
+It's hasn't been nearly a decade since we discovered the source. My brothers are growing weaker. It must be the Factum. But its not fair to pay so much life for so much possibility! I will not succumb like them. I never told myself that I would touch that kind of magic, but it seems I have no better choice. What problem could be born? I can always remove the curse. I think Rhadamanthus keeps the book in the safe, behind the portrait. He said the code had something to do with circles.
+sketches
+There are four drawings on this sheet of parchment. They're detailed sketches, not just simple doodles. You can identify a drawing of a chalice, some kind of fruit (A pome perhaps), a thick tome, and a scepter. In the middle, however, is just a scribble. A shapeless mass of ink that does not resemble anything at all.
+brass plate, Jupiter
+The small plate bears an engraving: Jupiter
+glowing emerald
+The emerald pulses with a bright glow. This looks pretty important.
+aquamarine
+It's a beautiful square blue gem, likely a trophy of sorts and not belonging to a larger object.
+cobweb ball
+It's now just a white sticky ball.
+1mm screw
+It's a tiny little screw.
+blue focus
+It's a cool brass ring holding a blue lens.
+yellow focus
+It's a cool brass ring holding a yellow lens.
+dark focus
+It's a cool brass ring holding a tinted lens.
+crystal orb
+It's extremely clean, and it contains a peculiar gas, the color of which you cannot quite describe.
+battery thing
+The box has surprising weight. The box has surprising weight. A metal strip and single spring are attached to the top. If you didn't know better, you'd call it a battery, probably for auxiliary power. It seems mostly dead of power.
+charged battery
+The heavy metal box is now warm to the touch.
+brass plate, Venus
+The small plate bears an engraving: Venus
+silver fork
+It's an ornately carved silver fork.
+silver platter
+It's shiny silver platter, polished ad nauseum.
+silver spoon
+It's an ornately carved silver fork.
+napkin
+A silky white cloth napkin. A luxury napkin indeed.
+angel medallion
+It's a beautiful gold disk about four or five inches across. An angel is embossed on the surface.
+horse medallion
+It's a silver disk about four or five inches across. On its surface is an embossing of a galloping horse.
+red lens
+It's a proper lens tinted red. Maybe you should pick up the glass trade!
+red dye
+You have a handful of soft red powdered dye. It's quite soft and powdery.
+blue dye
+You have a handful of soft blue powdered dye. It's quite soft and powdery.
+yellow dye
+You have a handful of soft yellow powdered dye. It's quite soft and powdery.
+lens template
+It's a sheet of metal with a small hole cut in it.
+ingredient order
+The note is an order of ingredients, oddly never sent out. Among the ingredients are many kinds of dyes, potassium salts, aluminum, and steel. Written last is 'sand' but it has been crossed out with 'ask groundskeeper' written after it.
+potash salts
+Good old potassium-rich potash salts!
+glass sheet
+Wait... this isn't right. Weren't you trying to make a lens?
+blue lens
+You made a clear blue lens.
+yellow lens
+You made a clear yellow lens.
+molten red glass
+It's a crucible of molten red glass.
+molten blue glass
+It's a crucible of molten blue glass.
+molten yellow glass
+It's a crucible of molten yellow glass.
+katana
+An expensive-looking icon of Japanese culture with not a detail spared. The long, slender blade gently curves to a braided handle.
+water bucket
+It's a metal bucket filled with water.
+silver sword
+The sword is finely polished and tapers evenly to a fine point at the end. Though possibly ornamental, silver is known to be effective against werewolves.
+rusty sword
+The sword is rusty and a little dull, but still somewhat effective. The sword has certainly met its fair share of enemy blades in its life.
+broken sword
+This sword is broken halfway down the blade. This is a mark of poor craftsmanship. Likely, the metal was reheated and cooled too many times during the forging.
+silver spear
+This is beautiful! It's solid metal with a silvery shine.
+wooden spear
+This looks like a plain wooden spear. A bit primitive looking, and probably not built to last.
+polearm
+This is a typical polearm, plain but very functional as a defense implement.
+war ax
+This type of tool excites you. Small and sharp for agile use. An effective tool for both offense and tree chopping.
+battle ax
+Essentially a long ax with a double sided blade. This weapon has so much heft. You wonder if it were ever effective at all in battle.
+candle
+It's a white candle. Must have been burning for some time.
+leather shoes
+A fancy pair of shiny leather shoes.
+worn shoes
+A worn, dull pair of leather shoes.
+night slippers
+A brown pair of cotton night slippers.
+work boots
+A pair of boots with thick rubber insulating soles.
+architectural plan
+25-4-1652 -  gamma schematic    #  [d   ][ ] ### [b g w][ ]###[r p dp][S]	    ###[|]	    ###[|]#Require a vessel that holds a charge. -Rhadamanthus
+account, page 1
+An ambitious decision to dig out the east wing stairwell has led to disturbing results. Is has become clear the intentions of the corrupt king Cronus. Despite this, I was correct to suspect water existing underneath the castle. This will surely become a valuable resource to us.
+account, page 2
+We have invested much time into a recent discovery. It turns out that the sub-level extends deeper underground than thought originally. The entrance was not apparent at first, and for clear reason. Noteworthy was an ancient well sitting alone in the deepest part. No one has a logical thought on it, but it does not seem to exist for water. A bright green or yellow light emanates from its bottom.
+account, page 3
+In our efforts to investigate the well's bottom, Eurynomos, under my supervision, lowered a rope and bucket into the well to retrieve the glowing substance. We had not even enough rope in the castle to cover the distance, and the rope became so heavy that we required the assistance of Daedalus and Asterion. What we pulled up was not expected. Instead of luminescent green, the liquid was gray and viscous. From cooling perhaps?
+account, page 4
+The gray matter we retrieved has, at this point, solidified. I have no way to describe it- it lacks any identifiable shape or color. In addition, in any place that we leave it, we find it missing later, only to be found once again in the deepest part of the cave. There is not any place we can leave it unattended without it leaving. Other small, nearby objects move with it on occasion. We will leave it in the deep chamber for now, but I intend to figure out its purpose!
+artifact report
+Four sandstone statues ~~ Egypt ~~ 2200 ante Christum natum######Violin: Stradivarius ~~ 'Italy' ~~ 1715#######Perpetual light artifact ~~ 'Namibia' ~~ ???######Spatial displacement device ~~ <unknown script> ~~ 2616#######Persian rug ~~ Persia ~~ 1345#######Stone dragon ~~ China ~~ circa 600######Three African statuettes ~~ 'Zambia' ~~ circa 1600#####'Electrical' helmet ~~ <unknown script> ~~ ???#####'Radio' ~~ The United States ~~ 1945######'Plasma Induction Charger' ~~ <unknown script> ~~~ ???#######Samurai armor set ~~ China ~~ circa 800######'Tesla Omicron wave defibrillator' ~~ Earth ~~ ???#######'Kampe' (living) ~~ Greece ~~ 1200 ante Christum natum#######Two jade lion statues ~~ China ~~ circa 200######'Electrical' cannon ~~ <unknown script> ~~ ???
+schematic: disc
+Sketched roughly on the paper appears to be a schematic. Three parts are drawn separated: a disc, a ring, and a small screw. A few measurements are noted. Written next to the screw is \"1mm\", and written next to the disc is \"filters to 700nm\". At the bottom of the sheet reads, \"for Daedalus - 712\".
+schematic: vessel
+----- Vessel proposal ----- ---------------------------   O-Si-O-Si-O-Si-O-Si-O-Si-O      O	      O	        O     O-Si-O-Si-O-Si-O-Si-O-Si-O           O	   O          O-Si-O-Si-O-Si-O-Si-O-Si-O      O	      O	        O     O-Si-O-Si-O-Si-O-Si-O-Si-O ####Orbicular silicate containing a stabilized kryptonic aether. -Rhadamanthus 
+cracked lens
+The red-tinted lens is cracked all the way through.
+brass ring
+It's an unhinged shiny brass ring with a groove lining the inside. There's a small hole in each end, about 1mm diameter. Looks like a screw is missing.
+wine bottle
+A very old bottle of red wine. The date says 1722. It has likely lost its taste by now
+rook
+the small figure resembles a brick tower.
+knight
+The small figure resembles a horse.
+bishop
+The small figure resembles... something.
+pawn
+The small figure resembles... something.
+red ball
+It's just a plain, heavy red ball. Where's the number on this?
+cue ball
+It's a plain white ball. This IS the cue ball, right?
+rotten fruit
+Was this an apple? Or ... plum once?
+petrified vegetable
+Looks like a rock ... in the shape of a carrot.
+barley
+It doesn't smell so great. Even grain doesn't keep this long.
+rye
+It doesn't smell so great. Even grain doesn't keep this long.
+copper pot
+It's small and crudely fashioned. It was definitely hammered into shape.
+copper pan
+It's an old copper pan, crudely fashioned and hammered into shape.
+brass plate, Sol
+The small plate bears an engraving: Sol
+brass plate, Mercury
+The small plate bears an engraving: Mercury
+brass plate, Terra
+The small plate bears an engraving: Terra
+brass plate, Mars
+The small plate bears an engraving: Mars
+brass plate, Caelus
+The small plate bears an engraving: Caelus
+brass plate, Neptune
+The small plate bears an engraving: Neptune
+ruby
+The ruby is well cut and clean.
+small gear
+The small delicate gear fell right out of the telescope.
+glass lens
+The small lens once belonged to the telescope in the observatory.
+machine piece
+You aren't sure what it does... It's an oddly shaped piece of aluminum.
+scribbly note
+Turn the fifth, then the forth, then the first, then the eith, then the fi<illegible> was in the chandeleer... cant remember how.
+journal page, Factum
+In my own time, I have gone and spent time experimenting with the Factum. Not only does it have the ability to move the user from place to place, covering no distance whatsoever, but it appears to do the same temporally. We can't get rid of it. It wants to be near the Source. Why not use it?? It's a gift! Rhadamanthus and Asterion could never understand, with their proper, old, magic! - Eurynomos
+momento: plate locations
+It's only been a day since we discovered that artifact from the well, and already I don't want to be around it. Perhaps we can hide it in the chandelier up there we need a use for that compartment. I'll determine new areas to store those brass plates, and keep the locations in the picture frame back there...
+leather hose
+The roughly 30-foot old hose is cracked and rotted. It's certainly non-functional, but is still sturdy.
+broken hose
+The hose has broken in half, but it served a worthy final purpose.
+hoe
+A rusty iron hoe for gardening. 
+trowel
+It's like a small hand-held shovel. 
+glass bottle
+It's a regular clear glass bottle, about 5 inches wide with a stubby neck.
+enchanted bottle
+The bottle is now coated in glowing... stuff.
+steel wire
+It's some broken piano wire, snapped about a quarter the way down.
+hand drill
+It's a drill for boring holes in wood. You can drill into almost anything you want now!
+aether vial
+The small delicate vial holds a bluish cloudy substance a gas, but flowing like a liquid.
+fire salts
+Seems to be just rust-colored ashes in a plain wooden bowl. They give off an unexplainable ambient warmth and smell of burning.
+notice: vials
+To all staff, please keep all utility chemicals in designated containers. DO NOT keep resupplying any needed glass vials from here! Let Daedalus create more for you if needed.
+'Novice Enchanting: Bottles'
+Bottle enchanting is a classic act in enchanting. Even back to the ages of Link of Hyrule, bottle enchanting was popular. Do not think that any old bottle can hold fire. These kinds of bottles were rare back then. The classic recipe for a sacred fire bottle is as follows: a bottle(subject), fire salts(aux), spruce sap(aux), mandragora(aux). The exact quantity of fire salts is up for debate. As for all mandragora, take care in growing them.
+'Novice Enchanting: Footwear'
+Shoe enchanting is not too difficult. An old easy recipe to follow is that for stealth slippers. You will need - a pair of slippers(sub), a raven's feather, and a vial of aether. Though slippers and raven feathers are generally cheap, aether can be hard to come by. Still, I would suggest this enchant for a novice.
+'Expert Enchanting: Weaponry'
+AN EXPERT RECIPE- SAFE- Weapon, fire/frost salts, aether, rose petals. Though a safe recipe, only hands of a trained enchanter can perform this enchant. -Aeria
+'Expert Enchanting: Skeleton Keys'
+The skeleton key recipe is dangerous, and only for experts. It remains to this day one of the most famous products of enchanting. Ingredients: key (of a non-conductive metal), living essence, aether, silk fiber. The ethics of this recipe remain debatable. Living essence is not sentient, but nonetheless, use that of a benign creature. This is a dangerous recipe due to its approach to lichery.
+note: binding
+A first attempt at a soul bind has worked. Though binding to such a weak object such a book is not recommended, it is certainly easier... and a decent subject to practice on...
+sacred fire
+The fire burns enigmatically inside the bottle. To your surprise, the fire gives off no heat.
+rubber hose
+It's a yellow rubber hose, about 8 feet long.
+test tube
+A small glass tube with a rounded bottom and a smooth rounded lip at the other end.
+beaker
+The vessel is straight on the edges and wide. Painted in wide intervals on the sides are white marks with numeric measurements.
+striker
+It's a weird metal tool. You squeeze it a couple times and a few sparks fly from the metal cap at the one end.
+scale
+A machine for the weighing of things, comprised of a metal bed and a base comprised of many small mechanical parts.
+balance
+You seem to remember these being called triple-beam balances in middle school.
+florence flask
+It's a piece of chemistry glassware. Has a bulbous bottom and a thin shaft with an opening at the top.
+phase door potion recipe
+*IMPORTANT: For walking through doors and large wooden castle gates. DO NOT LOSE!*####1: 10 mL bromine, chilled! 2: 5 mL acetic acid ##3: 20 mL aether ##4: 15 mL alcohol ##5: 35 mL carbonic acid ##6: 30 mL of COLD water######Boil the mixture in a flask and let it condense.
+note: missing ingredients
+How is it that I'm out of both acetic acid AND alcohol? I may have to use vinegar as a substitute for now. As for alcohol, I'm not sure I'm keen to use anything below 15.5%... - Rhadamanthus
+note: contraption
+The switch on the condenser needs replacing soon. I'm finding it too difficult to open up the distillation tube. Also, where did the flask for that distiller go?
+dry ice
+This stuff is cold! It hurts for you to hold.
+phase door potion
+It's a smoky brown liquid. You pray that this potion does what the recipe said...
+science potion
+This doesn't look how the manual described... It looks potion-ey, better throw it out though.
+doll
+A rag doll in a dress with one eye hanging out. Very creepy.
+sousaphone
+You never even thought these things were real!
+antique lamp
+A brass table lamp with a green lampshade. Its bulb is missing.
+mirror
+It's a dusty mirror.
+globe
+This thing doesn't at all look like a modern globe. Where's Prussia?
+green checkered suit
+Who would wear this?
+dress
+It's a violet dress
+old rags
+Just some assorted pieces of fabric.
+black trench coat
+It's a long, black wool trench coat.
+suit pants
+Some dark gray pinstripe pants
+broken table leg
+A short wooden post about 3 feet long. It looks like it belonged to a table.
+organic matter
+An unknown gray substance. It has a non-solid texture and feels organic. Its color appears to shift ever so slightly, giving it an oily appearance.
+note: plates
+Wherever you hide this, don't forget where! When the time comes to unbind yourself, you might need some help getting there. (1)Hidden before the sacred fire (2)Parlor, in plain sight (3)Beneath the Earth, before the callous multiflora (4)Dining room, concealed by the blue chalice (5)Safe with your treasures (6)High above the Gods (7)In this room (8)Beneath the stars, veiled by the memory of Daedalus.
+wooden oar
+The two halves have been taped together.
+rusty pipe
+It's a piece of rough metal piping, about 2 feet long. It's covered in rust and slime.
+broken wood handle
+It appears to be one half of an oar that was split in two.
+broken padlock
+... Was this possibly the padlock you broke earlier?
+odd clamp
+Two small blocks of wood connected with a couple threaded bolts comprise the small device. It's slightly larger than your palm.
+metal ladder
+It's an old extendable metal ladder. It must rise maybe 20 feet total...
+scythe
+It's a large black scythe. The edge is quite sharp.
+dried flower
+It's a brown, dried-up rose, perhaps given as a memorial or offering to an arcane spirit or diety.
+silver necklace
+A thin, fine necklace made of silver. A blue jewel dangles from it.
+bronze coin
+It's some sort of extinct and exotic currency. A round hole is bored through the center, and remaining surface has visible but worn decorative etchings.
+knife
+A plain steel knife, wrapped in cloth on the handle and stained with what must be blood.
+jarred brain
+The preserved brain in the glass jar is not something you're used to holding.
+metal bit
+It's a small scrap of metal. You have no idea what it's for.
+screw
+A degraded piece of metal resembling a screw. The threads have worn away and bits of metal rub off on your hand.
+soggy wood chunk
+It's a rotted, wet chunk of wood.
+broken wood paddle
+It appears to be one half of an oar that was split in two.
+duck tape
+State-of-the-art fabric tape made from cotton duck cloth. This is strong.
+leather whip
+A stylishly braided leather whip.
+shiny leather hat
+A worn but polished leather stetson-style hat.
+shoebox
+It resembles a large plain shoebox. Something rattles inside.
+empty shoebox
+The shoebox is now empty.
+chain
+It's a chain, about 10 feet long.
+illegible note
+This note is gibberish. Unreadable.
+algae covered book
+The book is wet and slimy. Its pages have nearly fused.
+ruined book
+This book is damp, moldy, and covered in dirt.
+stone block
+This is a remnant of the collapsed floor in the ancient archives.
+slimy algae
+Ugh... why are you holding this?
+note: Factum
+I can't bear to be around it anymore. I can't explain it, but the Factum does more than just move. It's as if it slowly breaks down reality itself into a hell. It rests now in the deepest chamber of the cave, in its own personal hell. Perhaps my days experimenting with this thing are over. In a little while, I will journey back down to unbind myself from it.
+stone coins
+A small collection of ancient coins. Many archaic markings decorate their surfaces, with holes bored in the centers.
+beaded necklace
+A lackluster necklace made with wooden beads.
+iridescent jewel
+The polished glassy pebble feels warm to the touch, and is constantly shifting color among red, black, and green.
+ancestral key
+It's an archaic stone key. It has a thick disc-shaped head and a long protruding shaft bearing a few fat teeth. Engraved on its head is a depiction of the sun.
+intellect key
+It's an archaic stone key. It has a thick disc-shaped head and a long protruding shaft bearing a few fat teeth. An eye is engraved on its head.
+continuity key
+It's an archaic stone key. It has a thick disc-shaped head and a long protruding shaft bearing a few fat teeth. The number '8' is engraved on its head.
+torn parchment
+In the center, written in large scribbly handwriting are the numbers: 
+quartz device
+You can't quite figure out what it is. It's a small metal box with a bit of heft. A polished rock of quartz has been fit into its center indentation, acting as a window of sorts. On the top and bottom of the box are copper plates. The item appears meant to be squeezed.
+message
+The wrinkled message has been written in what seems to be blunt charcoal. Only a single number is scrawled largely in the center: 
+malevolent note
+This sanctuary shall now be the godless temple for my wealth, for it is not the heavens who granted me this gift, but the contrary. The Factum shall be my key, and this False altar, the door to my soul.
+grail
+It's treasure. A gold-plated grail studded with rubies. Where is all this from?
+leather coin bag
+It's treasure. A handful of golden coins... Not currency you've ever seen though.
+crown
+It's treasure. It's the crown of a king. Exactly who's crown, you cannot guess.
+bracelet
+It's treasure. A thick jade bracelet, cold and heavy.
+jade statue
+It's treasure. A small statuette made of jade depicting a sitting female.
+lich clothes
+These are long black robes the kind Lichs wear, you suppose.
+mangled leg
+It's a disembodied rotting leg, dirty, and awful smelling.
+mangled torso
+It's a disembodied rotting torso, dirty, and awful smelling.
+mangled hand
+It's a disembodied rotting hand, dirty, and awful smelling.
+mangled arm
+It's a disembodied rotting arm, dirty, and awful smelling.
+torn parchment
+In the center, written in large scribbly handwriting are the numbers: "
