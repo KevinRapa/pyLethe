@@ -211,7 +211,9 @@ class Pris(Room):
 
     def __init__(self, name, ID):
         super(Pris,self).__init__(name, ID)
-        self.addFurniture(Pris.CELLS)
+
+        for f in Pris.CELLS:
+            self.addFurniture(f)
 
     def getCellDescription(self, i):
         return self.CELLS[i - 1].getDescription()

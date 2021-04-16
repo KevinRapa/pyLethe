@@ -68,6 +68,14 @@ class Furniture(object):
         self.useDialog = Furniture.DEFAULT_USE
         self.searchDialog = Furniture.NOTHING_HERE
     
+    def __getstate__(self):
+        odict = self.__dict__ 
+        odict['description'] = None
+        odict['actDialog'] = None
+        odict['useDialog'] = None
+        odict['searchDialog'] = None
+        return odict
+
     """
         Used to check if this piece contains a certain item.
         Removes titles from books.
@@ -79,12 +87,27 @@ class Furniture(object):
             return self.inv.contains(name)
         else:
             return False
- 
+
+    def readAttr(self, line_num):
+        filename = (DATA_PATH + SEP + "desc" + SEP + "furn" + str(self.ID) +
+                    "_" + type(self).__name__)
+        try:
+            with open(filename, "r") as fl:
+                for i in range(line_num):
+                    fl.readline()
+
+        except:
+            print("Some error occurred reading ")
+    
     def getDescription(self):
-        return self.description 
+        if not self.description:
+            self.description = self.readAttr(1)
+        return self.description
     
     def getSearchDialog(self):
-        return self.searchDialog 
+        if not self.searchDialog:
+            self.searchDialog = self.readAttr(4)
+        return self.searchDialog
     
     def getID(self):
         return self.ID
@@ -110,6 +133,8 @@ class Furniture(object):
       @return A string that prints when this piece is interacted with.
     """
     def interact(self, key):              
+        if not self.actDialog:
+            self.actDialog = self.readAttr(2)
         return self.actDialog
     
     """
@@ -118,6 +143,8 @@ class Furniture(object):
         @return String that prints when the item is used on self.
     """
     def useEvent(self, item):
+        if not self.useDialog:
+            self.useDialog = self.readAttr(3)
         return self.useDialog
     
     def actKeyMatches(self, verb):
